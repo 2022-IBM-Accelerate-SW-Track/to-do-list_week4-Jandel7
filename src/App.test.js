@@ -18,4 +18,4 @@ afterEach(() => {
 
 test('test that App component renders', () => {
   render(<App />, container);
- });
+});
